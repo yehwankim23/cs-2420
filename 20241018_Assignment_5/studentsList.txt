@@ -1,0 +1,5 @@
+u1000       Jess        Computer-Engineering
+u10001      Hana        Electrical-Engineering
+u10002      Hashiko     Computer-Science
+u10003      Dave        Psycholoy
+u10010      Eva         Journalism
